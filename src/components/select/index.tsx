@@ -1,1 +1,1 @@
-export { Select } from './Select';
+export { Select } from './Select'; // импортируем для того чтобы выбранные элементы менялись 
