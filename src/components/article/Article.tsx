@@ -6,6 +6,8 @@ import { Text } from 'components/text';
 
 import styles from './Article.module.scss';
 
+
+// главный контент проекта, описание самолета и его истории
 export const Article = () => {
 	return (
 		<article className={clsx(styles.article)}>

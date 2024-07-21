@@ -1,1 +1,1 @@
-export { ArticleParamsForm } from './ArticleParamsForm';
+export { ArticleParamsForm } from './ArticleParamsForm'; // Импортируем параметры CSS

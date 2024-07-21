@@ -1,1 +1,1 @@
-export { Button } from './Button';
+export { Button } from './Button'; // импортируем Button для того чтобы кнопки работали
